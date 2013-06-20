@@ -1,0 +1,12 @@
+Pyfeeder 1.0
+
+Copyrigh 2012 Christopher Koch
+
+Licensed GPL 3.0
+
+================================
+
+Open pyfeeder.py and replace the Google Voice login credentials and phone number with your own.
+Place RSS feed URLs in .feeds, one per line.
+Run `python pyfeeder.py'.
+If you're having an issue with messages not being sent, it's most likely GV's flood control to blame.  Try changing the sleep times.
